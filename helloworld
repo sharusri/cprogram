@@ -6,5 +6,5 @@ clrscr();
 printf("hello world");
 printf("hi");
 printf("hello ");
-getch();
+
 }
